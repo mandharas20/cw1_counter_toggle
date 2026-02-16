@@ -51,9 +51,11 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   uses-material-design: true
+
   assets:
-    - assets/image1.png.png
-    - assets/image2.png.png
+    - assets/image1.png
+    - assets/image2.png
+
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
